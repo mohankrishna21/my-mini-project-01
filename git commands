@@ -1,1 +1,5 @@
 git is known as the distributed control version system.
+git init
+git add 
+git status
+gid commit
