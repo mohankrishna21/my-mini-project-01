@@ -1,2 +1,1 @@
-# git-selflearning
-this is to learn git
+my mini project
